@@ -18,6 +18,23 @@ MOV AH,4CH
 INT 21H
 END
 
+//MUPLAB_SUB2
+.model small
+.data
+a dw 1234
+b dw 2978
+res dw ?
+.code
+    mov ax,@data
+    mov ds,ax
+    mov ax,a
+    sub ax,b
+    mov res,ax
+    mov ah,4ch
+    int 21h
+    end
+
+
 //MUPLAB_MULTIPLICATION
 .MODEL SMALL
 .DATA
