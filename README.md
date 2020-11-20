@@ -13,3 +13,13 @@ PALINDROME CHECKER::
 ASCII CODE::
 ![MP LAB ASCII](https://user-images.githubusercontent.com/71483959/97833524-8e051980-1cfb-11eb-9aaa-79843a7261c8.png)
 
+CALCULATING NCR::
+![ncr](https://user-images.githubusercontent.com/71483959/99835415-929a5080-2b8a-11eb-8cd8-5075cacf073e.png)
+
+
+SET CURSOR::
+![cursor](https://user-images.githubusercontent.com/71483959/99835425-94fcaa80-2b8a-11eb-9761-22559e9e634f.png)
+
+COUNT 0 TO 99::
+![bincount](https://user-images.githubusercontent.com/71483959/99835432-9928c800-2b8a-11eb-8550-9a1d0a4101aa.png)
+
