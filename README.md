@@ -4,3 +4,5 @@ LAB PROGRAM 1::
 [MUP lab (1).pdf](https://github.com/sakshi1bm19cs140/SakshiRoy_MPlab/files/5362984/MUP.lab.1.pdf)
 ![mup 2](https://user-images.githubusercontent.com/71483959/95706988-f705ee00-0c75-11eb-8547-0561bd0c982f.png)
 
+CREATION AND DELETION OF FILE::
+![filecreationanddeletion](https://user-images.githubusercontent.com/71483959/99832549-b5c30100-2b86-11eb-80c7-b0223a107216.png)
