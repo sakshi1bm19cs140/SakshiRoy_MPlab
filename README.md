@@ -9,3 +9,7 @@ CREATION AND DELETION OF FILE::
 
 PALINDROME CHECKER::
 ![MP LAB PALINDROME](https://user-images.githubusercontent.com/71483959/97833492-7b8ae000-1cfb-11eb-8a6d-a6370e9b5796.png)
+
+ASCII CODE::
+![MP LAB ASCII](https://user-images.githubusercontent.com/71483959/97833524-8e051980-1cfb-11eb-9aaa-79843a7261c8.png)
+
