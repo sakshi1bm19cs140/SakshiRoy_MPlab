@@ -59,4 +59,6 @@ WRITEUP::
 
 
 
+COMPARE TWO STRINGS::
+![COMP_STR](https://user-images.githubusercontent.com/71483959/99909732-3cefb080-2d10-11eb-80f0-646f82280f2c.png)
 
