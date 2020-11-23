@@ -62,3 +62,10 @@ WRITEUP::
 COMPARE TWO STRINGS::
 ![COMP_STR](https://user-images.githubusercontent.com/71483959/99909732-3cefb080-2d10-11eb-80f0-646f82280f2c.png)
 
+
+TIME DISPLAY::
+
+
+![time](https://user-images.githubusercontent.com/71483959/99925641-ef516300-2d64-11eb-8d42-6eeaed99c335.png)
+
+
